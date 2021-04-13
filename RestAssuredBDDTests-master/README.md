@@ -20,7 +20,7 @@ Execution screenshots are placed in screenshots folder (screenshots/TestExecutio
 
 #### Reports
 Reports are generated and placed in target folder
-`target/cucumber-html-report/index.html`
+`target/cucumber-html-report.html`
 `target/surefire-reports/RunCucumberTest/Command line test.html`
 
 ##### [PROBLEM] Difficult to test on server where posts/comments are not saved
