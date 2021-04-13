@@ -31,9 +31,11 @@ Execution screenshots are placed in screenshots folder (screenshots/TestExecutio
 Reports are generated and placed in target folder
 `target/cucumber-html-report.html`
 
-##### [PROBLEM] 
-
-
+##### [PROBLEM] During the tests, the following problems were seen.
+* In this api (POST / api / user), although the email field is a required field, when I send a null or empty character, the response is 200.
+* There is no format check for the email field in this api (POST / api / user). I can set an email in the format I want. For example: "324dsfdsff"
+* (GET /api/user/{id}) in this api it may be more correct to give a message not found if the id value is deleted or if it is not valid. In the current situation, Bad Request returns the result if the id value is invalid.
+* (DELETE /api/user/{id}) in this api it may be more correct to give a message not found if the id value is deleted or if it is not valid. In the current situation, Bad Request returns the result if the id value is invalid.
 ##### [SOLUTION] Local server can be installed which supports comments, posts and users
 
 
