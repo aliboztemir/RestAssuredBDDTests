@@ -32,11 +32,13 @@ Reports are generated and placed in target folder
 `target/cucumber-html-report.html`
 
 ##### [PROBLEM] During the tests, the following problems were seen.
-* In this api (POST / api / user), although the email field is a required field, when I send a null or empty character, the response is 200.
+* In this api (POST /api/user), although the email field is a required field, when I send a null or empty character, the response is 200. There is no mandatory field control.
 * There is no format check for the email field in this api (POST / api / user). I can set an email in the format I want. For example: "324dsfdsff"
 * (GET /api/user/{id}) in this api it may be more correct to give a message not found if the id value is deleted or if it is not valid. In the current situation, Bad Request returns the result if the id value is invalid.
 * (DELETE /api/user/{id}) in this api it may be more correct to give a message not found if the id value is deleted or if it is not valid. In the current situation, Bad Request returns the result if the id value is invalid.
-##### [SOLUTION] Local server can be installed which supports comments, posts and users
-
+* (DELETE /api/user/{id}) In this api, when a user is attempted to be deleted for the second time, "Internal Server Error" is returned in the response. Instead, it may be better to give a "User not found" message.
+* In this api (POST /api/car), although the manufacture, model and userId field is a required field, when I send a null or empty character, the response is 200. There is no mandatory field control.
+* (GET /api/car/{id}) in this api it may be more correct to give a message not found if the id value is deleted or if it is not valid. In the current situation, Bad Request returns the result if the id value is invalid.
+* (PUT / api / car / {id}) cannot update imageUrl value in this api.
 
 
