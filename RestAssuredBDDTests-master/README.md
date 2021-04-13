@@ -1,6 +1,7 @@
 #### Project Structure
 * Programming Language: JAVA
 * IDE: Eclipse
+* OS : Windows 10
 * Create a Maven project to build the program;
 * Add all dependences in pom.xml regarding some frameworks that I used such as Cucumber to manage BDD, Rest-assured to call the web-service REST and added a json-schema-validator to validate JSON response format;
 
@@ -18,10 +19,6 @@
 
 #### Execution screenshots
 Execution screenshots are placed in screenshots folder (screenshots/TestExecution-Cucumber.mp4)
-
-#### Development Environment
-* Windows 10
-* IDE - Eclipse
 
 #### Used technologies & tools
 * Cucumber
