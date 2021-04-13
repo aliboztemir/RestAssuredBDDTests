@@ -20,7 +20,7 @@
 #### Execution screenshots
 Execution screenshots are placed in screenshots folder (screenshots/TestExecution-Cucumber.mp4)
 
-#### Used technologies & tools
+#### Tools / libraries used :
 * Cucumber
 * Gherkin
 * Rest Assured
