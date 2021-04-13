@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: cucumber_options.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 15.129 s <<< FAILURE! - in cucumber_options.TestRunner
+Validate PutCarAPI adds car (with scope check)(Validating AutoGroup Car API's)  Time elapsed: 1.232 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[<DemoURL>]> but was:<[Updated]>
+
+PutCarAPI required field control(Validating AutoGroup Car API's)  Time elapsed: 0.626 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+

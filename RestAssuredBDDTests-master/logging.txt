@@ -1,0 +1,999 @@
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:01   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:07 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "892d57fa-06b9-4456-b71a-88935a97772d",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:05   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "Audi",
+    "model": "A7 Sportback",
+    "imageUrl": "DemoURL",
+    "userId": "892d57fa-06b9-4456-b71a-88935a97772d"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:09 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "11f2c6d6-9f6c-4908-a53e-2fdf6c88d253",
+    "manufacture": "Audi",
+    "model": "A7 Sportback",
+    "imageUrl": "DemoURL",
+    "userId": "892d57fa-06b9-4456-b71a-88935a97772d"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:06   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:09 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "9e969ac9-753b-4c34-92a7-1a680afd3d83",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:06   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "Volkswagen",
+    "model": "Golf",
+    "imageUrl": "DemoURL1",
+    "userId": "9e969ac9-753b-4c34-92a7-1a680afd3d83"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:09 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "1db99e5d-25bc-491a-95db-ac5e351d8888",
+    "manufacture": "Volkswagen",
+    "model": "Golf",
+    "imageUrl": "DemoURL1",
+    "userId": "9e969ac9-753b-4c34-92a7-1a680afd3d83"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:06   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:09 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "3266dbc4-cecc-44f8-8fb1-8ec00566f455",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:07   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "Opel",
+    "model": "Opel Corsa",
+    "imageUrl": "DemoURL2",
+    "userId": "3266dbc4-cecc-44f8-8fb1-8ec00566f455"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:10 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "ed62c6b0-cb48-415a-bc0e-379796ebaad9",
+    "manufacture": "Opel",
+    "model": "Opel Corsa",
+    "imageUrl": "DemoURL2",
+    "userId": "3266dbc4-cecc-44f8-8fb1-8ec00566f455"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:07   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:10 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "1c86494c-ce82-498a-946a-c3d5b0dc553a",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:07   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "Mercedes",
+    "model": "e200",
+    "imageUrl": "DemoURL3",
+    "userId": "1c86494c-ce82-498a-946a-c3d5b0dc553a"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:10 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "28d858e2-ebe6-4fdb-84cb-a764449365ca",
+    "manufacture": "Mercedes",
+    "model": "e200",
+    "imageUrl": "DemoURL3",
+    "userId": "1c86494c-ce82-498a-946a-c3d5b0dc553a"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:07   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:10 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "0692ed4d-15bb-432b-ab92-681e219bb199",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:07   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "",
+    "model": "",
+    "imageUrl": "DemoURL",
+    "userId": "0692ed4d-15bb-432b-ab92-681e219bb199"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:10 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "315cb2d9-aa9c-45b4-90b9-66982282984b",
+    "manufacture": "",
+    "model": "",
+    "imageUrl": "DemoURL",
+    "userId": "0692ed4d-15bb-432b-ab92-681e219bb199"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:08   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:11 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "d771079e-9d42-48ad-bef4-b530dc4bb22b",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:08   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "Audi",
+    "model": "A3 Sportback",
+    "imageUrl": "DemoURL",
+    "userId": "38400000-8cf0-11bd-b23e-10b96e4ef00d"
+}
+HTTP/1.1 400 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:11 GMT
+Connection: close
+
+{
+    "timestamp": "2021-04-13T14:28:11.905+00:00",
+    "status": 400,
+    "error": "Bad Request",
+    "path": "/api/car"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:08   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:11 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "52ca18bb-e9f1-4578-8c4a-f852e339bd79",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:08   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "BMW",
+    "model": "BMW 1",
+    "imageUrl": "DemoURL",
+    "userId": "52ca18bb-e9f1-4578-8c4a-f852e339bd79"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:11 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "a86cf8a5-4789-42cd-a781-1fec88c18306",
+    "manufacture": "BMW",
+    "model": "BMW 1",
+    "imageUrl": "DemoURL",
+    "userId": "52ca18bb-e9f1-4578-8c4a-f852e339bd79"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:08   ***
+******************************************************
+
+Request method:	GET
+Request URI:	http://99.80.111.168:8080/api/car/a86cf8a5-4789-42cd-a781-1fec88c18306
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=a86cf8a5-4789-42cd-a781-1fec88c18306
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:11 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "a86cf8a5-4789-42cd-a781-1fec88c18306",
+    "manufacture": "BMW",
+    "model": "BMW 1",
+    "imageUrl": "DemoURL",
+    "userId": "52ca18bb-e9f1-4578-8c4a-f852e339bd79"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:09   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:13 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "7de6610e-d973-4fb4-80c7-0041090305d3",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:09   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "<Audi>",
+    "model": "<A7 Sportback>",
+    "imageUrl": "<DemoURL>",
+    "userId": "7de6610e-d973-4fb4-80c7-0041090305d3"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:13 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "3e041731-978e-453c-b7ce-5989adcba64e",
+    "manufacture": "<Audi>",
+    "model": "<A7 Sportback>",
+    "imageUrl": "<DemoURL>",
+    "userId": "7de6610e-d973-4fb4-80c7-0041090305d3"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:09   ***
+******************************************************
+
+Request method:	PUT
+Request URI:	http://99.80.111.168:8080/api/car/3e041731-978e-453c-b7ce-5989adcba64e
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=3e041731-978e-453c-b7ce-5989adcba64e
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "Updated Manifacture",
+    "model": "Updated Model",
+    "imageUrl": "Updated",
+    "userId": "7de6610e-d973-4fb4-80c7-0041090305d3"
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 13 Apr 2021 14:28:13 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:10   ***
+******************************************************
+
+Request method:	GET
+Request URI:	http://99.80.111.168:8080/api/car/3e041731-978e-453c-b7ce-5989adcba64e
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=3e041731-978e-453c-b7ce-5989adcba64e
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:13 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "3e041731-978e-453c-b7ce-5989adcba64e",
+    "manufacture": "Updated Manifacture",
+    "model": "Updated Model",
+    "imageUrl": "<DemoURL>",
+    "userId": "7de6610e-d973-4fb4-80c7-0041090305d3"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:10   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:13 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "ce71a1ee-859a-45bc-bc8c-2a355672032c",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:10   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "<Audi>",
+    "model": "<A7 Sportback>",
+    "imageUrl": "<DemoURL>",
+    "userId": "ce71a1ee-859a-45bc-bc8c-2a355672032c"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:14 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "4be997c7-67c2-4b6b-ad9e-33d9ffdc51a4",
+    "manufacture": "<Audi>",
+    "model": "<A7 Sportback>",
+    "imageUrl": "<DemoURL>",
+    "userId": "ce71a1ee-859a-45bc-bc8c-2a355672032c"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:10   ***
+******************************************************
+
+Request method:	PUT
+Request URI:	http://99.80.111.168:8080/api/car/4be997c7-67c2-4b6b-ad9e-33d9ffdc51a4
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=4be997c7-67c2-4b6b-ad9e-33d9ffdc51a4
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "",
+    "model": "",
+    "imageUrl": "Updated",
+    "userId": "ce71a1ee-859a-45bc-bc8c-2a355672032c"
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 13 Apr 2021 14:28:14 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:11   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:14 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "8a211ab7-b36b-43e5-965e-2d330d1cbe60",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:11   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/car
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "manufacture": "<Audi>",
+    "model": "<A7 Sportback>",
+    "imageUrl": "<DemoURL>",
+    "userId": "8a211ab7-b36b-43e5-965e-2d330d1cbe60"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:14 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "80668114-ecb4-43ca-9739-551710efc3c2",
+    "manufacture": "<Audi>",
+    "model": "<A7 Sportback>",
+    "imageUrl": "<DemoURL>",
+    "userId": "8a211ab7-b36b-43e5-965e-2d330d1cbe60"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:11   ***
+******************************************************
+
+Request method:	DELETE
+Request URI:	http://99.80.111.168:8080/api/car/80668114-ecb4-43ca-9739-551710efc3c2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=80668114-ecb4-43ca-9739-551710efc3c2
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 13 Apr 2021 14:28:14 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:11   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "ali boztemir",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:14 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "4cf7b193-a9a4-466a-8df6-c14db97ef31f",
+    "email": "aliboztemir@gmail.com",
+    "name": "ali boztemir"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:11   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "",
+    "email": "aliboztemir@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "924d92ff-a391-456a-a729-99395676cd3c",
+    "email": "aliboztemir@gmail.com",
+    "name": ""
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:12   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "",
+    "email": ""
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "0878bd72-1dfe-42b0-9938-9e1415a1a36f",
+    "email": "",
+    "name": ""
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:12   ***
+******************************************************
+
+Request method:	POST
+Request URI:	http://99.80.111.168:8080/api/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Auto Group",
+    "email": "autogroup@gmail.com"
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "7229e5b4-30b9-467d-9ad6-11f41ca75421",
+    "email": "autogroup@gmail.com",
+    "name": "Auto Group"
+}
+
+******************************************************
+***   AutoGroup Request Sent at: 13/04/2021 17:27:12   ***
+******************************************************
+
+Request method:	GET
+Request URI:	http://99.80.111.168:8080/api/user/7229e5b4-30b9-467d-9ad6-11f41ca75421
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=7229e5b4-30b9-467d-9ad6-11f41ca75421
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 13 Apr 2021 14:28:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "id": "7229e5b4-30b9-467d-9ad6-11f41ca75421",
+    "email": "autogroup@gmail.com",
+    "name": "Auto Group"
+}

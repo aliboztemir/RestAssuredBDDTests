@@ -1,0 +1,6 @@
+step_definitions\Hooks.class
+cucumber_options\TestRunner.class
+test_resources\AutoGroupRespSpecs.class
+test_resources\AutoGroupReqSpecs.class
+step_definitions\AutoGroupValStepDefinition.class
+test_resources\Utilities.class
